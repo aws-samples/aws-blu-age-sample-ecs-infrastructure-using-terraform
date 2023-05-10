@@ -1,17 +1,14 @@
-## My Project
+# aws-blu-age-sample-ecs-infrastructure-using-terraform
 
-TODO: Fill this README out!
+## AWS Blu Age Sample ECS Infrastructure (Terraform)
 
-Be sure to:
+## Description
+This pattern provides Terraform modules which may be used to create an orchestration environment mainframe applications which have been modernised using the AWS Blu Age tool. The Java application(s) which are produced by the Blu Age tool are containerised and orchestrated using Amazon Elastic Container Service (ECS).
 
-* Change the title in this README
-* Edit your repository description on GitHub
+These modules can be used to create the network and other associated resources needed to deploy ECS, along with example modules for deploying batch and realtime applications which have been modernised with Blu Age.
 
-## Security
+See the APG artefact for detailed instructions on usage.
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
+## Authors and acknowledgment
+Richard Milner-Watts 
 
