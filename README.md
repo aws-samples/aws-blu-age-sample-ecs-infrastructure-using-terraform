@@ -9,6 +9,9 @@ These modules can be used to create the network and other associated resources n
 
 See the APG artefact for detailed instructions on usage.
 
+## Notes
+The code in this repository has been scanned with Checkov (version 2.3.199) for security issues. In some cases, certain warnings have been suppressed as they have been deemed to not be relevant to the security of the solution. Additionally, the Terraform modules included here are intended to be copied and customised to meet the intended use case; these are not intended to be executed in a production environment in their current form. 
+
 ## Authors and acknowledgment
 Richard Milner-Watts 
 
